@@ -1,0 +1,32 @@
+[buttons]
+mouse = 1
+shift = 1
+ctrl = 1
+alt = 1
+old-keys = 0
+
+[ui]
+scale = 1.0
+key_timeout = 0.5
+mouse_timeout = 0.2
+visible_click_timeout = 0.2
+decorated = 0
+backgroundless = 0
+no_press_fadeout = 0.0
+only_combo = 0
+sticky_mode = 0
+visible-click = 0
+click-color = ff0000
+click-opacity = 0.5
+follow-mouse = 0
+theme = classic
+opacity = 1.0
+
+[devices]
+swap_buttons = 0
+emulate_middle = 0
+
+[position]
+x = -1
+y = -1
+

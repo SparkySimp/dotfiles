@@ -1,0 +1,40 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+1366x768 screen: Height=717
+1366x768 screen: Width=1366
+1366x768 screen: XPosition=0
+1366x768 screen: YPosition=51
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Screenshots/Screenshot from 2023-08-11 22-00-18.png
+File10[$e]=$HOME/Pictures/Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg.png
+File2[$e]=$HOME/Pictures/Screenshots/Screenshot from 2023-08-12 08-15-43.png
+File3[$e]=$HOME/Pictures/Screenshots/Screenshot from 2023-08-09 20-20-23.png
+File4[$e]=$HOME/Pictures/Screenshots/Screenshot from 2023-08-11 15-03-45.png
+File5[$e]=$HOME/Pictures/Screenshot_20230813_231655.png
+File6[$e]=$HOME/Pictures/Screenshot_20230814_062640.png
+File7[$e]=$HOME/Pictures/Sun Aug  6 20:54:06 +03 2023
+File8[$e]=$HOME/Pictures/Screenshot_20230814_064615.png
+File9[$e]=$HOME/Pictures/lesbiab.xcf
+Name1[$e]=Screenshot from 2023-08-11 22-00-18.png
+Name10[$e]=Sample_09-F9_protest_art,_Free_Speech_Flag_by_John_Marcotte.svg.png
+Name2[$e]=Screenshot from 2023-08-12 08-15-43.png
+Name3[$e]=Screenshot from 2023-08-09 20-20-23.png
+Name4[$e]=Screenshot from 2023-08-11 15-03-45.png
+Name5[$e]=Screenshot_20230813_231655.png
+Name6[$e]=Screenshot_20230814_062640.png
+Name7[$e]=Sun Aug  6 20:54:06 +03 2023
+Name8[$e]=Screenshot_20230814_064615.png
+Name9[$e]=lesbiab.xcf
+
+[SideBar]
+InformationSplitterSizes=212,243

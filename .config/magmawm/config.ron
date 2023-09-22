@@ -1,0 +1,28 @@
+(
+    workspaces: 3,
+    keybindings: {
+        (modifiers: [Super], key: "Return"): Spawn("kitty"),
+        (modifiers: [Super, Shift], key: "q"): Quit,
+        (modifiers: [Super], key: "w"): Close,
+        (modifiers: [Super], key: "1"): Workspace(0),
+        (modifiers: [Super], key: "2"): Workspace(1),
+        (modifiers: [Super], key: "3"): Workspace(2),
+    },
+    gaps: (5, 5),
+    xkb: (
+        rules: "",
+        model: "",
+        layout: "",
+        variant: "",
+        options: None,
+    ),
+    autostart: [],
+    outputs: {},
+    borders: (
+        thickness: 8,
+        start_color: "#e0ffff",
+        end_color: Some("#94ebeb"),
+        radius: 8.0,
+        gradient_angle: 0.0,
+    ),
+)

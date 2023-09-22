@@ -1,0 +1,15 @@
+[Plugins]
+org.kde.ActivityManager.ResourceScoringEnabled=false
+
+[activities]
+16d15cfb-47ee-4d22-8afd-a1430f1ded50=nasty stuff
+c8a064e5-341a-4273-adc3-55154169aa9f=Default
+
+[activities-descriptions]
+16d15cfb-47ee-4d22-8afd-a1430f1ded50=do nasty shit here
+
+[activities-icons]
+16d15cfb-47ee-4d22-8afd-a1430f1ded50=activities
+
+[main]
+currentActivity=c8a064e5-341a-4273-adc3-55154169aa9f

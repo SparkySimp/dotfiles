@@ -1,0 +1,17 @@
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[MainWindow]
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=283
+1366x768 screen: YPosition=109
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[MainWindowState]
+Splitter=376,989
+
+[Search]
+ScopeSelection=0

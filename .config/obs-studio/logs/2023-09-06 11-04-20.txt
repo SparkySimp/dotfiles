@@ -1,0 +1,83 @@
+11:04:20.676: ================================
+11:04:20.677: Warning: OBS is already running!
+11:04:20.678: ================================
+11:04:20.678: User is now running multiple instances of OBS!
+11:04:20.678: Using EGL/X11
+11:04:20.679: CPU Name: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+11:04:20.679: CPU Speed: 500.001MHz
+11:04:20.680: Physical Cores: 2, Logical Cores: 4
+11:04:20.680: Physical Memory: 15864MB Total, 11183MB Free
+11:04:20.680: Kernel Version: Linux 6.1.51-1-lts
+11:04:20.681: Distribution: "Arch Linux" Unknown
+11:04:20.681: Desktop Environment: KDE (KDE)
+11:04:20.681: Session Type: x11
+11:04:20.681: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+11:04:20.720: Qt Version: 6.5.2 (runtime), 6.5.1 (compiled)
+11:04:20.720: Portable mode: false
+11:04:20.787: OBS 29.1.3-1 (linux)
+11:04:20.787: ---------------------------------
+11:04:20.788: ---------------------------------
+11:04:20.788: audio settings reset:
+11:04:20.788: 	samples per sec: 48000
+11:04:20.788: 	speakers:        2
+11:04:20.788: 	max buffering:   960 milliseconds
+11:04:20.788: 	buffering type:  dynamically increasing
+11:04:20.793: ---------------------------------
+11:04:20.793: Initializing OpenGL...
+11:04:20.893: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 520 (SKL GT2)
+11:04:20.893: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.1.6-arch1.4, shading language 4.60
+11:04:20.948: ---------------------------------
+11:04:20.948: video settings reset:
+11:04:20.948: 	base resolution:   1366x768
+11:04:20.948: 	output resolution: 852x480
+11:04:20.948: 	downscale filter:  Bicubic
+11:04:20.948: 	fps:               30/1
+11:04:20.948: 	format:            NV12
+11:04:20.948: 	YUV mode:          Rec. 709/Partial
+11:04:20.948: NV12 texture support not available
+11:04:20.948: P010 texture support not available
+11:04:20.953: Audio monitoring device:
+11:04:20.953: 	name: Default
+11:04:20.953: 	id: default
+11:04:20.954: ---------------------------------
+11:04:20.967: Failed to load 'en-US' text for module: 'decklink-captions.so'
+11:04:20.980: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+11:04:20.991: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+11:04:20.991: Failed to initialize module 'decklink.so'
+11:04:21.191: [pipewire] Available captures:
+11:04:21.191: [pipewire]     - Desktop capture
+11:04:21.191: [pipewire]     - Window capture
+11:04:21.216: v4l2loopback not installed, virtual camera disabled
+11:04:21.241: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+11:04:21.241: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+11:04:21.241: FFmpeg VAAPI H264 encoding not supported
+11:04:21.241: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+11:04:21.241: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+11:04:21.241: FFmpeg VAAPI HEVC encoding not supported
+11:04:21.340: ---------------------------------
+11:04:21.340:   Loaded Modules:
+11:04:21.340:     text-freetype2.so
+11:04:21.340:     rtmp-services.so
+11:04:21.340:     obs-x264.so
+11:04:21.340:     obs-vst.so
+11:04:21.340:     obs-transitions.so
+11:04:21.340:     obs-outputs.so
+11:04:21.340:     obs-libfdk.so
+11:04:21.340:     obs-filters.so
+11:04:21.340:     obs-ffmpeg.so
+11:04:21.340:     linux-v4l2.so
+11:04:21.340:     linux-pulseaudio.so
+11:04:21.340:     linux-pipewire.so
+11:04:21.341:     linux-jack.so
+11:04:21.341:     linux-capture.so
+11:04:21.341:     linux-alsa.so
+11:04:21.341:     image-source.so
+11:04:21.341:     frontend-tools.so
+11:04:21.341:     decklink-output-ui.so
+11:04:21.341:     decklink-captions.so
+11:04:21.341: ---------------------------------
+11:04:21.341: ==== Startup complete ===============================================
+11:04:21.409: All scene data cleared
+11:04:21.409: ------------------------------------------------
+11:04:21.445: alsa-input: PCM 'default' rate set to 44100
+11:04:21.445: alsa-input: PCM 'default' channels set to 2

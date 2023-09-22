@@ -1,0 +1,20 @@
+[General Options]
+ColorIndex=0
+FPSIndex=2
+Geometry=460,390
+Mode=followmouse
+RotationIndex=0
+SelRect=1136,86,220,162
+ShowMouse=2
+StaysOnTop=true
+ZoomIndex=4
+
+[MainWindow]
+1366x768 screen: Height=390
+1366x768 screen: Width=460
+1366x768 screen: XPosition=794
+1366x768 screen: YPosition=175
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAcwAAAFYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAFgB2AGkAZQB3AFQAbwBvAGwAQgBhAHIBAAAADP////8AAAAAAAAAAAAAAB4AcwBlAHQAdABpAG4AZwBzAFQAbwBvAGwAQgBhAHIBAAABTv////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

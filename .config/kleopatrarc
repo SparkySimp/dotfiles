@@ -1,0 +1,38 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/cpuvuln,file:$HOME/cpuvuln
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+1366x768 screen: XPosition=171
+1366x768 screen: YPosition=159
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABAAAAAGwAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Self-Test]
+last-selftest-version=1
+
+[SignEncryptFilesWizard]
+LastUseOutputDir=false
+
+[SignEncryptKeys]
+EncryptKey=2819A0AFB34C08200368046382659A3FC88EC3A7
+SigningKey=2819A0AFB34C08200368046382659A3FC88EC3A7
+
+[View #0]
+ColumnOrder=0,1,2,3,4,5,6,7,8,9,10,11,12,13
+ColumnVisibility=true,true,true,true,true,false,true,false,false,false,false,false,false,false
+ColumnWidths=260,260,82,96,94,0,69,0,0,0,0,0,0,0
+SortAscending=0
+SortColumn=0
+column-sizes=260,260,82,96,94,0,69,0,0,0,0,0,0,0
+hierarchical-view=true
+key-filter=all-certificates
+magic=262254561
+sort-column=0
+sort-descending=false
+string-filter=
+title=All Certificates

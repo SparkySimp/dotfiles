@@ -1,0 +1,14 @@
+main = putStrLn ("Sum: " ++ show (sumOddLinkedList exampleList))
+main :: IO ()
+-- Calculate the sum of the example list
+exampleList = OddNode 1 (OddNode 3 (OddNode 5 (OddNode 2 (OddNode 7 OddEnd))))
+exampleList :: OddLinkedList
+-- Example linked list: 1 -> 3 -> 5 -> 2 -> 7 -> End
+sumOddLinkedList (OddNode x rest) = x + sumOddLinkedList rest
+sumOddLinkedList OddEnd = 0  -- Base case: an empty list has a sum of 0
+sumOddLinkedList :: OddLinkedList -> Int
+-- Define a function to compute the sum of the linked list
+data OddLinkedList = OddNode Int OddLinkedList | OddEnd
+-- Define a custom data type for the linked list
+main
+main = print . sum . map read . words =<< getLine

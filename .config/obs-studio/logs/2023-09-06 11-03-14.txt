@@ -1,0 +1,79 @@
+11:03:14.819: Using EGL/X11
+11:03:14.820: CPU Name: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+11:03:14.820: CPU Speed: 2400.003MHz
+11:03:14.820: Physical Cores: 2, Logical Cores: 4
+11:03:14.820: Physical Memory: 15864MB Total, 11503MB Free
+11:03:14.820: Kernel Version: Linux 6.1.51-1-lts
+11:03:14.820: Distribution: "Arch Linux" Unknown
+11:03:14.820: Desktop Environment: KDE (KDE)
+11:03:14.820: Session Type: x11
+11:03:14.820: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+11:03:14.823: Qt Version: 6.5.2 (runtime), 6.5.1 (compiled)
+11:03:14.823: Portable mode: false
+11:03:15.010: OBS 29.1.3-1 (linux)
+11:03:15.010: ---------------------------------
+11:03:15.011: ---------------------------------
+11:03:15.012: audio settings reset:
+11:03:15.012: 	samples per sec: 48000
+11:03:15.012: 	speakers:        2
+11:03:15.012: 	max buffering:   960 milliseconds
+11:03:15.012: 	buffering type:  dynamically increasing
+11:03:15.019: ---------------------------------
+11:03:15.019: Initializing OpenGL...
+11:03:15.104: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 520 (SKL GT2)
+11:03:15.104: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.1.6-arch1.4, shading language 4.60
+11:03:15.160: ---------------------------------
+11:03:15.160: video settings reset:
+11:03:15.160: 	base resolution:   1366x768
+11:03:15.160: 	output resolution: 852x480
+11:03:15.160: 	downscale filter:  Bicubic
+11:03:15.160: 	fps:               30/1
+11:03:15.160: 	format:            NV12
+11:03:15.160: 	YUV mode:          Rec. 709/Partial
+11:03:15.160: NV12 texture support not available
+11:03:15.160: P010 texture support not available
+11:03:15.166: Audio monitoring device:
+11:03:15.166: 	name: Default
+11:03:15.166: 	id: default
+11:03:15.166: ---------------------------------
+11:03:15.177: Failed to load 'en-US' text for module: 'decklink-captions.so'
+11:03:15.190: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+11:03:15.203: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+11:03:15.203: Failed to initialize module 'decklink.so'
+11:03:15.546: [pipewire] Available captures:
+11:03:15.546: [pipewire]     - Desktop capture
+11:03:15.546: [pipewire]     - Window capture
+11:03:15.574: v4l2loopback not installed, virtual camera disabled
+11:03:15.636: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+11:03:15.636: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+11:03:15.636: FFmpeg VAAPI H264 encoding not supported
+11:03:15.636: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+11:03:15.636: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+11:03:15.636: FFmpeg VAAPI HEVC encoding not supported
+11:03:15.753: ---------------------------------
+11:03:15.753:   Loaded Modules:
+11:03:15.753:     text-freetype2.so
+11:03:15.753:     rtmp-services.so
+11:03:15.753:     obs-x264.so
+11:03:15.754:     obs-vst.so
+11:03:15.754:     obs-transitions.so
+11:03:15.754:     obs-outputs.so
+11:03:15.754:     obs-libfdk.so
+11:03:15.754:     obs-filters.so
+11:03:15.754:     obs-ffmpeg.so
+11:03:15.754:     linux-v4l2.so
+11:03:15.754:     linux-pulseaudio.so
+11:03:15.754:     linux-pipewire.so
+11:03:15.754:     linux-jack.so
+11:03:15.754:     linux-capture.so
+11:03:15.754:     linux-alsa.so
+11:03:15.754:     image-source.so
+11:03:15.754:     frontend-tools.so
+11:03:15.754:     decklink-output-ui.so
+11:03:15.754:     decklink-captions.so
+11:03:15.754: ---------------------------------
+11:03:15.754: ==== Startup complete ===============================================
+11:03:15.801: All scene data cleared
+11:03:15.801: ------------------------------------------------
+11:03:15.818: alsa-input: PCM 'default' rate set to 44100
+11:03:15.818: alsa-input: PCM 'default' channels set to 2

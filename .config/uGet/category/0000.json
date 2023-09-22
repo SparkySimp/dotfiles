@@ -1,0 +1,97 @@
+{
+	"info": {
+		"relation": {
+			"group": 0,
+			"priority": 1
+		},
+		"common": {
+			"name": "New 0",
+			"folder": "\/home\/sparky",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 1,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		},
+		"category": {
+			"hosts": [
+				".edu",
+				".idv"
+			],
+			"schemes": [
+				"ftps",
+				"magnet"
+			],
+			"file-exts": [
+				"torrent",
+				"metalink"
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		}
+	},
+	"children": [
+		{
+			"info": {
+				"relation": {
+					"group": 72,
+					"priority": 1
+				},
+				"progress": {
+					"complete": 6140975104,
+					"total": 6140975104,
+					"elapsed": 2255,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"log": {
+					"added-time": 1694185641,
+					"completed-time": 1694188077,
+					"messages": [
+					]
+				},
+				"common": {
+					"name": "Win10_22H2_English_x64v1.iso",
+					"uri": "https:\/\/software.download.prss.microsoft.com\/dbazure\/Win10_22H2_English_x64v1.iso?t=8296666b-be2d-448b-b970-5006f0a1af10&e=1694272005&h=ab7f2ca4805c9ec5161fc5c355f5dc0604a52864d313b12a8091792501b6d0ba",
+					"file": "Win10_22H2_English_x64v1.iso",
+					"folder": "\/home\/sparky\/DiskImages",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"list": [
+						{
+							"path": "\/home\/sparky\/DiskImages\/Win10_22H2_English_x64v1.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

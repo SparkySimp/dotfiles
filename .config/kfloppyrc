@@ -1,0 +1,8 @@
+[GeneralData]
+CreateLabel=1
+Density=Auto-Detect
+Filesystem=DOS
+FloppyDrive=Primary
+Label=KDE Floppy
+QuickFormat=1
+Verify=1

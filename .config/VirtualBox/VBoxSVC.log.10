@@ -1,0 +1,87 @@
+00:00:00.000651 main     VirtualBox XPCOM Server 7.0.10 r158379 linux.amd64 (Aug 11 2023 12:19:51) release log
+00:00:00.000653 main     Log opened 2023-08-27T18:10:06.502346000Z
+00:00:00.000654 main     Build Type: release
+00:00:00.000656 main     OS Product: Linux
+00:00:00.000657 main     OS Release: 6.4.12-arch1-1
+00:00:00.000658 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 24 Aug 2023 00:38:14 +0000
+00:00:00.000678 main     DMI Product Name: Aspire E5-574G
+00:00:00.000686 main     DMI Product Version: V1.18
+00:00:00.000692 main     Firmware type: BIOS
+00:00:00.000721 main     Host RAM: 15864MB (15.4GB) total, 10697MB (10.4GB) available
+00:00:00.000723 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000724 main     Process ID: 15077
+00:00:00.000724 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002000 main     IPC socket path: /tmp/.vbox-sparky-ipc/ipcd
+00:00:00.108828 nspr-2   VirtualBox: object creation starts
+00:00:00.109038 nspr-2   Home directory: '/home/sparky/.config/VirtualBox'
+00:00:00.110154 nspr-2   Loading settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.114350 nspr-2   USB: Unknown USB device detected (idVendor: 0x0489, idProduct: 0xe09c)
+00:00:00.114705 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.148303 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.150783 nspr-2   HostDnsMonitor: initializing
+00:00:00.151607 nspr-2   NAT: resolv.conf: nameserver 192.168.140.240
+00:00:00.151669 nspr-2   HostDnsMonitor: updating information
+00:00:00.151705 nspr-2   HostDnsMonitor: old information
+00:00:00.151714 nspr-2     no server entries
+00:00:00.151723 nspr-2     no domain set
+00:00:00.151731 nspr-2     no search string entries
+00:00:00.151740 nspr-2   HostDnsMonitor: new information
+00:00:00.151748 nspr-2     server 1: 192.168.140.240
+00:00:00.151758 nspr-2     no domain set
+00:00:00.151766 nspr-2     no search string entries
+00:00:00.159682 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.159966 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.163354 nspr-2   Loading settings file "/home/sparky/VBoxVMs/lesbian linux/lesbian linux.vbox" with version "1.19-linux"
+00:00:00.164720 nspr-2   Loading settings file "/home/sparky/VBoxVMs/pardus/pardus.vbox" with version "1.19-linux"
+00:00:00.166759 nspr-2   Loading settings file "/home/sparky/VBoxVMs/Fedora NsCDE Spin VM (im sorry)/Fedora NsCDE Spin VM (im sorry).vbox" with version "1.19-linux"
+00:00:00.168301 nspr-2   VirtualBox: object created
+00:00:01.200134 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:03.409181 nspr-4   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:11.422299 nspr-6   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:00:11.458969 nspr-5   Saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:11.463932 nspr-5   Finished saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml"
+00:00:17.688146 createBase Saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:17.700902 createBase Finished saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml"
+00:00:17.743228 nspr-3   Saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox" with version "1.19-linux"
+00:00:17.768049 nspr-3   Finished saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox"
+00:00:17.768553 nspr-3   Saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:17.776117 nspr-3   Finished saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml"
+00:00:17.785004 nspr-2   Saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:17.792548 nspr-2   Finished saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml"
+00:00:17.799423 nspr-3   Saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:17.806803 nspr-3   Finished saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml"
+00:00:17.808942 nspr-3   Saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox" with version "1.19-linux"
+00:00:17.815921 nspr-3   Finished saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox"
+00:00:17.939305 nspr-2   Saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:17.954039 nspr-2   Finished saving settings file "/home/sparky/.config/VirtualBox/VirtualBox.xml"
+00:00:18.185614 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:21.608479 nspr-3   Launched VM: 2415956624 pid: 15147 (0x3b2b) frontend: GUI/Qt name: gentoo
+00:00:21.674331 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:22.189397 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:22.970987 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:23.068072 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:23.149441 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:23.333208 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:23.456515 nspr-9   Saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox" with version "1.19-linux"
+00:00:23.465744 nspr-9   Finished saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox"
+00:00:23.505808 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:23.552574 nspr-7   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:23.554689 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:23.686730 nspr-6   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:26.439867 nspr-8   Saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox" with version "1.19-linux"
+00:00:26.465262 nspr-8   Finished saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox"
+00:00:26.547323 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:02:38.242104 nspr-3   Saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox" with version "1.19-linux"
+00:02:38.253856 nspr-3   Finished saving settings file "/home/sparky/VBoxVMs/gentoo/gentoo.vbox"
+00:02:38.261843 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:38.301712 nspr-7   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:39.801183 nspr-9   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:42:16.149795 main     VirtualBox: object deletion starts
+00:42:16.149934 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/sparky/VBoxVMs/lesbian linux/lesbian deb linux.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:42:16.150436 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/sparky/VBoxVMs/pardus/pardus.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:42:16.150811 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/sparky/VBoxVMs/Fedora NsCDE Spin VM (im sorry)/Fedora NsCDE Spin VM (im sorry).vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:42:16.151200 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/sparky/VBoxVMs/gentoo/gentoo.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:42:16.152876 main     HostDnsMonitor: shutting down ...
+00:42:16.153459 main     HostDnsMonitor: shut down
+00:42:16.166053 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:42:16.166345 main     VirtualBox: object deleted

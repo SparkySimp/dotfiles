@@ -1,0 +1,20 @@
+00:00:03.124841 VirtualBox GUI VM Selector Window 7.0.10 r158379 linux.amd64 (Aug 11 2023 12:19:51) release log
+00:00:03.124855 Log opened 2023-08-30T15:00:06.417804000Z
+00:00:03.124861 Build Type: release
+00:00:03.124872 OS Product: Linux
+00:00:03.124879 OS Release: 6.4.12-arch1-1
+00:00:03.124886 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 24 Aug 2023 00:38:14 +0000
+00:00:03.125025 DMI Product Name: Aspire E5-574G
+00:00:03.125096 DMI Product Version: V1.18
+00:00:03.125137 Firmware type: BIOS
+00:00:03.125355 Host RAM: 15864MB (15.4GB) total, 10845MB (10.5GB) available
+00:00:03.125376 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:03.125380 Process ID: 5354
+00:00:03.125384 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:03.129102 Qt version: 5.15.10
+00:00:03.137030 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:03.227357 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:09.026926 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x27 x 1366x741
+00:00:09.281978 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:46:31.411992 GUI: UICommon: Handling aboutToQuit request..
+00:46:32.234217 GUI: UICommon: aboutToQuit request handled!

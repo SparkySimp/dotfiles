@@ -1,0 +1,3 @@
+2023-08-22 22:11:18.255 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sparky/.vscode-oss/extensions
+2023-08-22 22:11:18.669 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/sparky/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/sparky/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-08-22 22:11:18.670 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sparky/.vscode-oss/extensions

@@ -1,0 +1,19 @@
+[KFileDialog Settings]
+Recent Files[$e]=ataturk-sddm.png,file:$HOME/Pictures/uwu-ring.png,file:$HOME/Pictures/ataturk-sddm.png,file:$HOME/Pictures/mustafa-kemal-lect.png,file:$HOME/Pictures/luzie.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Desktop/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1366x768 screen: Height=529
+1366x768 screen: Width=410
+
+[MainWindow]
+1366x768 screen: Height=717
+1366x768 screen: Width=1366
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=173
+1366x768 screen: YPosition=76
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAALNAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

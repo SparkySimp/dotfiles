@@ -1,0 +1,16 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+captureMode=0
+includeDecorations=false
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/zeus-2.png,file:$HOME/Pictures/sneeze.png,file:$HOME/Pictures/Screenshot_20230901_120840.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[Save]
+compressionQuality=100
+lastSaveAsLocation=file:///home/sparky/Pictures/Screenshot_20230901_120840.png
+lastSaveLocation=file:///home/sparky/Pictures/Screenshot_20230901_120840.png

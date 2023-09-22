@@ -1,0 +1,18 @@
+[KChatBaseModelPrivate]
+MaxMessages=-1
+MessageFont=Noto Sans,10,-1,0,50,0,0,0,0,0
+NameFont=Noto Sans,10,-1,0,50,0,0,0,0,0
+SystemMessageFont=Noto Sans,10,-1,0,50,0,0,0,0,0
+SystemNameFont=Noto Sans,10,-1,0,50,0,0,0,0,0
+
+[MainWindow]
+1366x768 screen: Height=415
+1366x768 screen: Width=563
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=401
+1366x768 screen: YPosition=202
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAAfsAAAAUAHIAaQBnAGgAdAAtAGQAbwBjAGsAAAAAAP////8AAAAuAQAAAwAAAAMAAAKAAAABsvwBAAAAAfsAAAAWAGIAbwB0AHQAbwBtAC0AZABvAGMAawAAAAAAAAACgAAAAGgBAAADAAAFVgAAAp8AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

@@ -1,0 +1,182 @@
+17:48:30.230: Using EGL/X11
+17:48:30.231: CPU Name: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+17:48:30.231: CPU Speed: 2599.993MHz
+17:48:30.231: Physical Cores: 2, Logical Cores: 4
+17:48:30.231: Physical Memory: 15846MB Total, 8278MB Free
+17:48:30.231: Kernel Version: Linux 6.4.14-200.fc38.x86_64
+17:48:30.231: Distribution: "Fedora Linux" 38
+17:48:30.231: Desktop Environment: GNOME (gnome)
+17:48:30.231: Session Type: x11
+17:48:30.231: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.14
+17:48:30.232: Qt Version: 6.5.2 (runtime), 6.5.2 (compiled)
+17:48:30.232: Portable mode: false
+17:48:30.312: OBS 29.1.3 (linux)
+17:48:30.312: ---------------------------------
+17:48:30.312: ---------------------------------
+17:48:30.312: audio settings reset:
+17:48:30.312: 	samples per sec: 48000
+17:48:30.312: 	speakers:        2
+17:48:30.312: 	max buffering:   960 milliseconds
+17:48:30.312: 	buffering type:  dynamically increasing
+17:48:30.345: ---------------------------------
+17:48:30.345: Initializing OpenGL...
+17:48:30.462: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 520 (SKL GT2)
+17:48:30.462: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.1.6, shading language 4.60
+17:48:30.537: ---------------------------------
+17:48:30.537: video settings reset:
+17:48:30.537: 	base resolution:   1366x736
+17:48:30.537: 	output resolution: 1364x736
+17:48:30.537: 	downscale filter:  Bicubic
+17:48:30.537: 	fps:               30/1
+17:48:30.537: 	format:            NV12
+17:48:30.537: 	YUV mode:          Rec. 709/Partial
+17:48:30.537: NV12 texture support not available
+17:48:30.537: P010 texture support not available
+17:48:30.544: Audio monitoring device:
+17:48:30.544: 	name: Default
+17:48:30.544: 	id: default
+17:48:30.544: ---------------------------------
+17:48:30.584: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:48:30.627: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:48:30.666: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:48:30.666: Failed to initialize module 'decklink.so'
+17:48:31.186: [pipewire] Available captures:
+17:48:31.186: [pipewire]     - Desktop capture
+17:48:31.186: [pipewire]     - Window capture
+17:48:31.274: v4l2loopback not installed, virtual camera disabled
+17:48:31.913: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+17:48:31.913: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+17:48:31.913: FFmpeg VAAPI H264 encoding not supported
+17:48:31.913: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+17:48:31.914: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+17:48:31.914: FFmpeg VAAPI HEVC encoding not supported
+17:48:32.236: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.2.3 | RPC Version: 1)
+17:48:32.237: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.5.2 | Qt version (run-time): 6.5.2
+17:48:32.237: [obs-websocket] [obs_module_load] Linked ASIO Version: 102800
+17:48:32.249: [obs-websocket] [obs_module_load] Module loaded.
+17:48:32.448: [vlc-video]: VLC 3.0.19 Vetinari found, VLC video source enabled
+17:48:32.448: ---------------------------------
+17:48:32.448:   Loaded Modules:
+17:48:32.448:     vlc-video.so
+17:48:32.448:     text-freetype2.so
+17:48:32.448:     rtmp-services.so
+17:48:32.448:     obs-x264.so
+17:48:32.448:     obs-websocket.so
+17:48:32.448:     obs-webkitgtk.so
+17:48:32.448:     obs-vst.so
+17:48:32.448:     obs-transitions.so
+17:48:32.448:     obs-outputs.so
+17:48:32.448:     obs-libfdk.so
+17:48:32.448:     obs-filters.so
+17:48:32.448:     obs-ffmpeg.so
+17:48:32.448:     linux-v4l2.so
+17:48:32.448:     linux-pulseaudio.so
+17:48:32.448:     linux-pipewire.so
+17:48:32.448:     linux-jack.so
+17:48:32.448:     linux-capture.so
+17:48:32.448:     linux-alsa.so
+17:48:32.448:     image-source.so
+17:48:32.448:     frontend-tools.so
+17:48:32.449:     decklink-output-ui.so
+17:48:32.449:     decklink-captions.so
+17:48:32.449: ---------------------------------
+17:48:32.449: ==== Startup complete ===============================================
+17:48:32.532: All scene data cleared
+17:48:32.532: ------------------------------------------------
+17:48:32.559: alsa-input: PCM 'default' rate set to 44100
+17:48:32.559: alsa-input: PCM 'default' channels set to 2
+17:48:32.670: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.79) 15.0.0'
+17:48:32.671: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+17:48:32.672: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+17:48:32.676: xshm-input: Geometry 1366x768 @ 0,0
+17:48:32.689: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:48:32.689: 	title: unknown
+17:48:32.689: 	class: unknown
+17:48:32.689: 
+17:48:32.690: PipeWire initialized
+17:48:32.695: Switched to scene 'Scene'
+17:48:32.695: ------------------------------------------------
+17:48:32.695: Loaded scenes:
+17:48:32.695: - scene 'Scene':
+17:48:32.695:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+17:48:32.695: - scene 'Silence':
+17:48:32.696:     - source: 'Audio Capture Device (ALSA) 2' (alsa_input_capture)
+17:48:32.696:     - source: 'Audio Output Capture (PulseAudio) 2' (pulse_output_capture)
+17:48:32.696:     - source: 'Screen Capture (XSHM) 2' (xshm_input)
+17:48:32.696: - scene 'Scene 2':
+17:48:32.696:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+17:48:32.696: ------------------------------------------------
+17:48:32.839: [pipewire] Screencast session created
+17:48:32.859: [pipewire] Asking for desktop
+17:48:32.891: [pipewire] desktop selected, setting up screencast
+17:48:32.898: [pipewire] Server version: 0.3.79
+17:48:32.898: [pipewire] Library version: 0.3.79
+17:48:32.898: [pipewire] Header version: 0.3.75
+17:48:32.898: [pipewire] Created stream 0x5608b2385c80
+17:48:32.898: [pipewire] Stream 0x5608b2385c80 state: "connecting" (error: none)
+17:48:32.898: [pipewire] Playing stream 0x5608b2385c80
+17:48:32.900: [pipewire] Stream 0x5608b2385c80 state: "paused" (error: none)
+17:48:32.904: [pipewire] Negotiated format:
+17:48:32.904: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:48:32.904: [pipewire]     Size: 1366x768
+17:48:32.904: [pipewire]     Framerate: 0/1
+17:48:32.924: [pipewire] Stream 0x5608b2385c80 state: "streaming" (error: none)
+17:48:33.214: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Audio Capture Device (ALSA) 2)
+17:48:33.214: 
+17:48:56.011: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:48:56.011: 	title: pardus-23 on QEMU/KVM
+17:48:56.011: 	class: virt-manager
+17:48:56.011: 
+17:49:39.312: ---------------------------------
+17:49:39.312: [x264 encoder: 'simple_video_recording'] preset: veryfast
+17:49:39.312: [x264 encoder: 'simple_video_recording'] profile: high
+17:49:39.312: [x264 encoder: 'simple_video_recording'] settings:
+17:49:39.312: 	rate_control: CRF
+17:49:39.312: 	bitrate:      0
+17:49:39.312: 	buffer size:  0
+17:49:39.312: 	crf:          21
+17:49:39.312: 	fps_num:      30
+17:49:39.312: 	fps_den:      1
+17:49:39.312: 	width:        1364
+17:49:39.312: 	height:       736
+17:49:39.312: 	keyint:       250
+17:49:39.312: 
+17:49:39.317: libfdk_aac encoder created
+17:49:39.317: libfdk_aac bitrate: 192, channels: 2
+17:49:39.319: ==== Recording Start ===============================================
+17:49:39.320: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sparky/2023-09-12 17-49-39.mkv'...
+17:54:28.633: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/sparky/2023-09-12 17-49-39.mkv' stopped
+17:54:28.633: Output 'simple_file_output': stopping
+17:54:28.633: Output 'simple_file_output': Total frames output: 8656
+17:54:28.633: Output 'simple_file_output': Total drawn frames: 8675 (8679 attempted)
+17:54:28.633: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 4 (0.0%)
+17:54:28.633: ==== Recording Stop ================================================
+17:54:28.678: libfdk_aac encoder destroyed
+17:54:53.454: ---------------------------------
+17:54:53.454: [x264 encoder: 'simple_video_recording'] preset: veryfast
+17:54:53.455: [x264 encoder: 'simple_video_recording'] profile: high
+17:54:53.455: [x264 encoder: 'simple_video_recording'] settings:
+17:54:53.455: 	rate_control: CRF
+17:54:53.455: 	bitrate:      0
+17:54:53.455: 	buffer size:  0
+17:54:53.455: 	crf:          21
+17:54:53.455: 	fps_num:      30
+17:54:53.455: 	fps_den:      1
+17:54:53.455: 	width:        1364
+17:54:53.455: 	height:       736
+17:54:53.455: 	keyint:       250
+17:54:53.455: 
+17:54:53.467: libfdk_aac encoder created
+17:54:53.467: libfdk_aac bitrate: 192, channels: 2
+17:54:53.474: ==== Recording Start ===============================================
+17:54:53.475: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sparky/2023-09-12 17-54-53.mkv'...
+17:57:46.085: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/sparky/2023-09-12 17-54-53.mkv' stopped
+17:57:46.085: Output 'simple_file_output': stopping
+17:57:46.086: Output 'simple_file_output': Total frames output: 5156
+17:57:46.086: Output 'simple_file_output': Total drawn frames: 5179
+17:57:46.086: ==== Recording Stop ================================================
+17:57:46.109: libfdk_aac encoder destroyed
+18:11:51.195: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Audio Capture Device (ALSA) 2)
+18:11:51.195: 
+18:12:53.872: adding 21 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Audio Capture Device (ALSA) 2)
+18:12:53.872: 

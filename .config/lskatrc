@@ -1,0 +1,24 @@
+[LSkatData]
+input0=0
+input1=1
+
+[LSkat_Player0]
+gameswon=0
+name=Alice
+noofgames=0
+score=0
+
+[LSkat_Player1]
+gameswon=0
+name=Bob
+noofgames=0
+score=0
+
+[MainWindow]
+1366x768 screen: XPosition=243
+1366x768 screen: YPosition=153
+eDP-1=eDP-1
+
+[ProgramData]
+ThemeIndexNo=0
+startplayer=0

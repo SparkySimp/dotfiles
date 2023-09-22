@@ -1,0 +1,50 @@
+[KHighscore]
+0_LastPlayer=Kıvılcım C.
+10_Level=-
+10_Name=-
+10_Score=-
+10_moves=-
+1_Level=2
+1_Name=Kıvılcım C.
+1_Score=812
+1_moves=00:05
+2_Level=2
+2_Name=Kıvılcım C.
+2_Score=416
+2_moves=00:03
+3_Level=1
+3_Name=Kıvılcım C.
+3_Score=194
+3_moves=00:04
+4_Level=1
+4_Name=Kıvılcım C.
+4_Score=174
+4_moves=00:05
+5_Level=1
+5_Name=Kıvılcım C.
+5_Score=103
+5_moves=00:01
+6_Level=1
+6_Name=Kıvılcım C.
+6_Score=87
+6_moves=00:02
+7_Level=1
+7_Name=Kıvılcım C.
+7_Score=59
+7_moves=00:03
+8_Level=-
+8_Name=-
+8_Score=-
+8_moves=-
+9_Level=-
+9_Name=-
+9_Score=-
+9_moves=-
+
+[KgTheme]
+Theme=themes/default.desktop
+
+[MainWindow]
+1366x768 screen: XPosition=308
+1366x768 screen: YPosition=159
+eDP-1=eDP-1

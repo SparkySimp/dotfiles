@@ -1,0 +1,24 @@
+[Game]
+BlindMap=false
+CumulativeProduction=true
+NeutralsProduction=1
+NeutralsShowShips=true
+NeutralsShowStats=true
+NrOfPlanets=3
+NrOfPlayers=2
+PlayerType_0=Human (Player)
+PlayerType_1=Default (Weak)
+Player_0=Player 0
+Player_1=Player 2
+ProductionAfterConquere=true
+SizeHeight=10
+SizeWidth=10
+
+[MainWindow]
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=314
+1366x768 screen: YPosition=153
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAVWAAAA4vwBAAAAAfwAAAAAAAAFVgAAAAAA////+v////8BAAAAAvsAAAAaAGQAbwBjAGsALQBtAGUAcwBzAGEAZwBlAHMAAAAAAP////8AAABgAQAAA/sAAAAcAGQAbwBjAGsALQBzAHQAYQBuAGQAaQBuAGcAcwAAAAAA/////wAAAGcBAAADAAAFVgAAAogAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

@@ -1,0 +1,14 @@
+[MainWindow]
+1366x768 screen: Height=519
+1366x768 screen: Width=562
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=402
+1366x768 screen: YPosition=150
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[default_levels]
+LastPlayedLevel=2
+MaxAccessibleLevel=2

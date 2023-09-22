@@ -1,0 +1,8 @@
+[FileDialogSize]
+1366x768 screen: Height=462
+1366x768 screen: Width=902
+
+[KFileDialog Settings]
+Recent Files[$e]=2023-08-16-210309_1366x768_scrot.png,file:$HOME/DiskImages/Fedora-Workstation-Live-x86_64-38-1.6.iso,file:$HOME/DiskImages/cachyos-gnome-linux-230813.iso,file:$HOME/Pictures/Sample_09-F9_protest_art\\,_Free_Speech_Flag_by_John_Marcotte.svg.png,file:$HOME/Pictures/archlinux-logo-light-90dpi.d36c53534a2b.png,file:$HOME/Pictures/luzie-malware.png,file:$HOME/Pictures/transfem-hrt.png,file:$HOME/Downloads/discord-0.0.29.tar.gz,file:$HOME/ISO-8859-9-TR-ext.txt,file:$HOME/Pictures/sneeze.png,file:$HOME/Pictures/uwu-genderund.png,file:$HOME/Pictures/transbinan-2.png,file:$HOME/Pictures/uwu-auto-trans.png,file:$HOME/Pictures/uwu-trans-bi.png,file:$HOME/Pictures/Screenshot_20230901_120840.png
+Recent URLs[$e]=file:$HOME/,file:$HOME/Documents/,file:$HOME/Pictures/,file:$HOME/Downloads/,file:$HOME/Desktop/,file:$HOME/Videos/,file:$HOME/Pictures/screenshots/,file:$HOME/DiskImages/
+detailViewIconSize=16

@@ -1,0 +1,19 @@
+[KFileDialog Settings]
+Recent Files[$e]=tutorial1.step,file:$HOME/disk.step,file:///usr/share/step/tutorials/tr/tutorial1.step
+Recent URLs[$e]=file:///usr/share/step/tutorials/tr/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+1366x768 screen: Height=628
+1366x768 screen: Width=910
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=228
+1366x768 screen: YPosition=82
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAgAAAAAAAAChAAACiPwCAAAAAfsAAAAWAGkAdABlAG0AUABhAGwAZQB0AHQAZQEAAAAuAAACiAAAAIEBAAADAAAAAQAAAVwAAAKI/AIAAAAD+wAAABgAdwBvAHIAbABkAEIAcgBvAHcAcwBlAHIBAAAALgAAAMAAAAB5AQAAA/sAAAAiAHAAcgBvAHAAZQByAHQAaQBlAHMAQgByAG8AdwBzAGUAcgEAAADvAAAAwQAAAHkBAAAD/AAAAbEAAAEFAAAAwQEAAB36AAAAAQEAAAAC+wAAABYAdQBuAGQAbwBCAHIAbwB3AHMAZQByAQAAAAD/////AAAAYAEAAAP7AAAAFgBpAG4AZgBvAEIAcgBvAHcAcwBlAHIBAAAEBwAAAU8AAABgAQAAAwAAA1cAAAKIAAAAAQAAAAIAAAABAAAAAvwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBzAGkAbQB1AGwAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAADOv////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[RecentFiles]
+File1[$e]=/usr/share/step/tutorials/tr/tutorial1.step
+Name1[$e]=tutorial1.step

@@ -1,0 +1,8 @@
+[bar/mybar]
+monitor = eDP-1
+logfile = /var/log/polybar-1.log
+
+[module/date]
+type = internal/date
+interval = 1
+format = %d.%m.%Y %H.%M.%S

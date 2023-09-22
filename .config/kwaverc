@@ -1,0 +1,27 @@
+[MainWindow]
+1366x768 screen: XPosition=174
+1366x768 screen: YPosition=244
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA44AAAGhAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABGAGkAbABlAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABFAGQAaQB0AQAAALb/////AAAAAAAAAAAAAAACAAAAAgAAADQATQBhAGkAbgBXAGkAZABnAGUAdAAgAFIAZQBjAG8AcgBkAC8AUABsAGEAeQBiAGEAYwBrAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABaAG8AbwBtAQAAAZj/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+toolbars=3
+
+[MainWindow][Toolbar MainWidget Edit]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget File]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Record/Playback]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Zoom]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[Recent Files]
+0=/home/sparky/Music/02. Arıza.mp3
+1=/home/sparky/Music/onestop.mp3

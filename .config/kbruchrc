@@ -1,0 +1,12 @@
+[MainWindow]
+1366x768 screen: Height=520
+1366x768 screen: Width=742
+1366x768 screen: XPosition=50
+1366x768 screen: YPosition=50
+State=AAAA/wAAAAD9AAAAAAAAAuYAAAHqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Statistics]
+correct=17
+count=19

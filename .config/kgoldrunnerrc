@@ -1,0 +1,20 @@
+[KDEGame]
+ActualSpeed=10
+ControlMode=3
+GamePrefix=tute
+LastGamePrefix=tute
+LastLevel=3
+Level_tute=3
+SpeedLevel=7
+
+[KgTheme]
+Theme=themes/egypt.desktop
+
+[MainWindow]
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=363
+1366x768 screen: YPosition=153
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAIAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAGUAZABpAHQAVABvAG8AbABiAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

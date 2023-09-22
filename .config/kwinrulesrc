@@ -1,0 +1,9 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[b322e284-60a1-48e2-8ced-0961e0718666]
+Description=Dock Transparency
+opacityactiverule=2
+opacityinactiverule=2
+types=4
+wmclassmatch=1

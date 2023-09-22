@@ -1,0 +1,25 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display 12934db2-0bf7-40be-a581-6bd708d6af9e]
+last-seen-name=Arch Linux
+uuid=12934db2-0bf7-40be-a581-6bd708d6af9e
+acceleration-3d=false
+run-in-bg=true
+access-last-time=1694181161286374
+access-ntimes=5
+access-total-time=187
+
+[display 15e858dd-0dbe-4d16-af72-11358e999819]
+last-seen-name=Windows NT 4 2
+uuid=15e858dd-0dbe-4d16-af72-11358e999819
+acceleration-3d=false
+run-in-bg=true
+access-last-time=1694266374868991
+access-ntimes=1
+
+[display e148d487-b778-4fdf-a202-b3d5b4ab12cf]
+access-total-time=54

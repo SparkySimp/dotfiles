@@ -1,0 +1,38 @@
+[General]
+ColorScheme[$d]
+ColorSchemeHash[$d]
+File1[$e]=$HOME/Downloads/Fuck_Updates_-_Endless_Jess.mp4
+Name1[$e]=Fuck_Updates_-_Endless_Jess.mp4
+TimeFormat=1
+Volume=1
+
+[KFileDialog Settings]
+Recent Files[$e]=Fuck_Updates_-_Endless_Jess.mp4,file:///run/media/sparky/YCO9A160/igrencseslewr/Yeni klasör/onestop.mid,file:$HOME/Downloads/Fuck_Updates_-_Endless_Jess.mp4
+Recent URLs[$e]=file:$HOME/Downloads/,file:///run/media/sparky/YCO9A160/igrencseslewr/Yeni klasör/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+1366x768 screen: XPosition=357
+1366x768 screen: YPosition=140
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAosAAAG3AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[file:///home/sparky/Downloads/Fuck_Updates_-_Endless_Jess.mp4]
+Brightness=0
+Contrast=0
+Date=2023,8,13
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0
+
+[file:///run/media/sparky/YCO9A160/igrencseslewr/Yeni klasör/onestop.mid]
+Brightness=0
+Contrast=0
+Date=2023,8,13
+Hue=0
+IsVideo=false
+Preferred Size=100,30
+Saturation=0

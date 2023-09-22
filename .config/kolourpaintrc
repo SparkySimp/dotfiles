@@ -1,0 +1,45 @@
+[General Settings]
+First Time=false
+Last Document Size=688,400
+Open Images in the Same Window=false
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/disk-base.png,file:$HOME/Pictures/disk-base.png
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=16
+
+[MainWindow]
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=401
+1366x768 screen: YPosition=225
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAUGAAAAbPwBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAAFAAAAUGAAACEgEAAAMAAAUGAAACGQAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[MainWindow][Toolbar Tool Box]
+ToolButtonStyle=IconOnly
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/disk-base.png
+Name1[$e]=disk-base.png
+
+[Tool Settings]
+Last Used Tool=7
+Tool Widget Brush Col=0
+Tool Widget Brush Row=0
+Tool Widget Eraser Size Col=0
+Tool Widget Eraser Size Row=1
+Tool Widget Fill Style Col=0
+Tool Widget Fill Style Row=1
+Tool Widget Line Width Col=0
+Tool Widget Line Width Row=4
+Tool Widget Opaque/Transparent Col=0
+Tool Widget Opaque/Transparent Row=0
+Tool Widget Spraycan Size Col=0
+Tool Widget Spraycan Size Row=0
+
+[Undo/Redo Settings]
+Max Limit=500
+Max Limit Size Limit=16777216
+Min Limit=10
